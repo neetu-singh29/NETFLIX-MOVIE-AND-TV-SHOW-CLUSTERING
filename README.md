@@ -1,5 +1,5 @@
 ### Netflix Movies and TV Shows Clustering
-Project Overview
+# **Project Overview**
 This project focuses on clustering Netflix movies and TV shows based on their descriptions using unsupervised machine learning techniques. The goal is to group similar content together to enhance recommendation systems and content organization on the platform.
 
 Dataset
